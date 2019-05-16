@@ -1,7 +1,10 @@
 ---
 layout: default
-title: CS 370
+title: CS 370 Demonstrations
 ---
 
-Floating-Point
+Unit 1: Floating-Point Numbers
 - [IEEE Floating-Point Demo](https://jorchard.github.io/floating-point/IEEE_FP_standard.html)
+
+Unit 2: Numerical Linear Algebra
+- coming soon
