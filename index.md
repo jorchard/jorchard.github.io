@@ -8,3 +8,7 @@ Unit 1: Floating-Point Numbers
 
 Unit 2: Numerical Linear Algebra
 - [Randy (Page Rank) demos](https://jorchard.github.io/linalg/Randy_demos.html)
+- [Induced Norms demos](https://jorchard.github.io/linalg/induced_norms.html)
+
+Unit 3: ODEs
+- [Euler's Method](https://jorchard.github.io/odes/Euler_demo.html)
