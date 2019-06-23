@@ -18,3 +18,4 @@ Unit 3: ODEs
 
 Unit 4: Interpolation
 - [Monomial Interpolation](https://jorchard.github.io/interp/Monomial_Interpolation.html)
+- [Lagrange Interpolation](https://jorchard.github.io/interp/Lagrange.html)
