@@ -19,3 +19,4 @@ Unit 3: ODEs
 Unit 4: Interpolation
 - [Monomial Interpolation](https://jorchard.github.io/interp/Monomial_Interpolation.html)
 - [Lagrange Interpolation](https://jorchard.github.io/interp/Lagrange.html)
+- [Cubic Splines in Python](https://jorchard.github.io/interp/simple_spline.html)
