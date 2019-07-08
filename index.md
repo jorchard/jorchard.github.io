@@ -22,3 +22,6 @@ Unit 4: Interpolation
 - [Cubic Splines in Python](https://jorchard.github.io/interp/simple_spline.html)
 - [How to use `ginput` in Python](https://jorchard.github.io/interp/ginput_demo.html)
 - [Bezier curves](https://jorchard.github.io/interp/Bezier.html)
+
+Unit 5: Fourier Theory
+- [Fourier Basis Vectors](https://jorchard.github.io/Fourier/basis_vectors.html)
