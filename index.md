@@ -27,4 +27,4 @@ Unit 5: Fourier Theory
 - [Fourier Series Demo](https://jorchard.github.io/Fourier/Fourier_series_demo.html)
 - [Fourier Basis Vectors](https://jorchard.github.io/Fourier/basis_vectors.html)
 - [Fourier Compression Demo](https://jorchard.github.io/Fourier/Compression_Demo.html)
-- [Fourier Audio Demos](https://jorchard.github.io/Fourier/Fourier_audio_demos.html.html)
+- [Fourier Audio Demos](https://jorchard.github.io/Fourier/Fourier_audio_demos.html)
