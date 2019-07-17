@@ -11,4 +11,6 @@ Day 1: Population Coding
 - [EyeGame.py.cfg](https://www.dropbox.com/s/i6bzgn8f7id19p2/EyeGame.py.cfg?dl=0)
 
 Day 2: Neural Learning
-- Coming Soon
+- [NeuralLearning.ipynb](https://www.dropbox.com/s/8a00ks74ulyd43z/NeuralLearning.ipynb?dl=0)
+- [BackProp.ipynb](https://www.dropbox.com/s/g7vvhttjpqie7cq/BackProp.ipynb?dl=0)
+- [mnist_small.pickle](https://www.dropbox.com/s/1bykk61nz06i2ub/mnist_small.pickle?dl=0)
