@@ -20,6 +20,7 @@ Unit 4: Interpolation
 - [Monomial Interpolation](https://jorchard.github.io/interp/Monomial_Interpolation.html)
 - [Lagrange Interpolation](https://jorchard.github.io/interp/Lagrange.html)
 - [Cubic Splines in Python](https://jorchard.github.io/interp/simple_spline.html)
+- [Crawling Bug Demo (parametric curves)](https://jorchard.github.io/interp/crawling_bug_demo.py)
 - [How to use `ginput` in Python](https://jorchard.github.io/interp/ginput_demo.html)
 - [Bezier curves](https://jorchard.github.io/interp/Bezier.html)
 
