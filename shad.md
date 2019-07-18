@@ -14,3 +14,6 @@ Day 2: Neural Learning
 - [NeuralLearning.ipynb](https://www.dropbox.com/s/8a00ks74ulyd43z/NeuralLearning.ipynb?dl=0) ([solution](https://www.dropbox.com/s/dnljrhkfur2awnq/NeuralLearning_solution.ipynb?dl=0))
 - [BackProp.ipynb](https://www.dropbox.com/s/g7vvhttjpqie7cq/BackProp.ipynb?dl=0)
 - [mnist_small.pickle](https://www.dropbox.com/s/1bykk61nz06i2ub/mnist_small.pickle?dl=0)
+
+Day 3: Brain Bugs and Features
+- [Slides (pdf)](https://www.dropbox.com/s/p0zipdibhbys8rz/bugs_and_features_2019.pdf?dl=0)
